@@ -129,14 +129,17 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .mainContent .externalResourcesNav .externalResources {
 	background-color: rgba(208,207,207,1.00);
+	background-image: url("../../images/GitHub-Emblem.png");
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
 	padding-top: 3%;
+	height: 53px;
 	cursor: pointer;
 }
 .mainContent .externalResourcesNav .externalResources:hover {
 	background-color: rgba(153,153,153,1.00);
+	
 }
 .externalResourcesNav .externalResources a {
 	font-family: 'Montserrat', sans-serif;
@@ -227,7 +230,6 @@ header .socialNetworkNavBar .socialNetworkNav {
 	display: inline-block;
 	text-align: left;
 	font-family: sans-serif;
-	text-align: justify;
 }
 .mainContent .section2 {
 	display: block;
